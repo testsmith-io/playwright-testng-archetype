@@ -11,3 +11,6 @@ out/
 *.project
 
 .DS_Store
+
+# Ignore Maven release backup files
+*.releaseBackup
