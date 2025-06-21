@@ -25,7 +25,7 @@ public class HomePage extends AbstractPageBase {
 
     @Step("Is Sign In button displayed")
     public boolean isSignInButtonDisplayed() {
-        return signInButton.isDisabled();
+        return signInButton.isVisible();
     }
 
 }
