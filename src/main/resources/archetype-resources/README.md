@@ -23,7 +23,7 @@ This project is generated from an archetype. It exists out of TestNG, Playwright
 
 `mvn clean test -Dbrowser=chrome`
 
-`mvn clean test -Dbrowser=chrome_headless`
+`mvn clean test -Dbrowser=chrome_headed`
 
 `mvn clean test -Dbrowser=msedge`
 
