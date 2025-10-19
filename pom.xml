@@ -5,7 +5,7 @@
 
     <groupId>io.testsmith</groupId>
     <artifactId>playwright-testng-archetype</artifactId>
-    <version>0.6</version>
+    <version>0.7-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>Playwright TestNG Archetype</name>
@@ -42,7 +42,7 @@
         <connection>scm:git:git@github.com:testsmith-io/playwright-testng-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:testsmith-io/playwright-testng-archetype.git</developerConnection>
         <url>https://github.com/testsmith-io/playwright-testng-archetype</url>
-      <tag>playwright-testng-archetype-0.6</tag>
+      <tag>playwright-testng-archetype-0.7</tag>
   </scm>
 
     <developers>
