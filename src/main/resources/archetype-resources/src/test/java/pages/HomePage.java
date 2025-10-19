@@ -28,4 +28,10 @@ public class HomePage extends AbstractPageBase {
         return signInButton.isVisible();
     }
 
+    @Step("Click Sign In button")
+    public LoginPage clickSignIn() {
+        signInButton.click();
+        return new LoginPage(page);
+    }
+
 }

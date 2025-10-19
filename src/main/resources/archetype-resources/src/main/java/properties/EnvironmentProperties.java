@@ -10,6 +10,8 @@ import org.aeonbits.owner.Config.Sources;
 public interface EnvironmentProperties extends Config {
     String url();
 
+    String apiUrl();
+
     String username();
 
     String password();

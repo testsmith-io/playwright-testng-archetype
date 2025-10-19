@@ -43,4 +43,4 @@ This project is generated from an archetype. It exists out of TestNG, Playwright
 
 ## Update to the latest release version
 
-`versions:update-properties`
+`mvn versions:update-properties`
